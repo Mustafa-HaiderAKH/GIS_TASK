@@ -38,7 +38,7 @@ export const LeafletMap = ({details}) => {
 
 
           {details.mailBox.map((e, index) => (
-            <Marker draggable={true} position={e} key={index}  />
+            <Marker  position={e} key={index}  />
           ))}
 
 
