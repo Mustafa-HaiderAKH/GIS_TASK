@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { LeafletMap } from "./Componetns/LeafletMap";
+import { LeafletMap } from "./Components/LeafletMap";
 function App() {
   const [details, setDetails] = useState({
     polylinePoints: [
