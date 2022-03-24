@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gis/static/css/main.a5019332.css",
+    "main.js": "/gis/static/js/main.627ac066.js",
+    "index.html": "/gis/index.html",
+    "main.a5019332.css.map": "/gis/static/css/main.a5019332.css.map",
+    "main.627ac066.js.map": "/gis/static/js/main.627ac066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5019332.css",
+    "static/js/main.627ac066.js"
+  ]
+}
